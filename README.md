@@ -55,7 +55,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/disease-prediction-system.git
+git clone https://github.com/Satyam-201/DIESEASE-PREDICTION.git
 cd disease-prediction-system
 Install dependencies
 
